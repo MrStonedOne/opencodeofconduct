@@ -34,7 +34,7 @@ Harassment includes, but is not limited to:
 - Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect others from intentional abuse
 - Publication of non-harassing private communication
 
-We will not act on complaints regarding:
+We will not act on complaints regarding: 
 
 - Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you”
 - Refusal to explain or debate social justice concepts
